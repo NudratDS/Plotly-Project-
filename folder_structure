@@ -1,0 +1,7 @@
+marketing-performance-plotly/
+│
+├── data/
+│   └── marketing_and_product_performance.csv
+├── marketing_dashboard.ipynb
+├── requirements.txt
+└── README.md
